@@ -4,11 +4,6 @@
 
 ## Setting
 
-```
-"In sum, our city's motto should be this: 'Visit Blisterport to change. Stay to learn that nothing ever changes.'" 
-- Flores, Penelope, "A Brief History of Failure." Workers' Party. 1 Oct. 1919.
-```
-
 - The Mantakalas are a Caribbean island chain and United States territory since 1898. Their capital is the city of Blisterport.
 - The islands are affected by their proximity to the Well, an eldritch power in the Cayman Trench deep beneath the sea.
 - The Well causes involuntary and unpredictable transformation in humans, and has also spawned a variety of plants and animals unique to the area.
