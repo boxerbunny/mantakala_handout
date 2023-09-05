@@ -25,7 +25,7 @@ Dante Ruiz Soriano has requested your presence at his estate on the island of Mi
 
 ## Transformation Rules
 
-- Sculptors can be hired to transform your character. The more drastic the transformation, the more expensive and time-consuming the process.
+- Sculptors can be hired to temporarily transform your character. The more drastic the transformation, the more expensive and time-consuming the process.
 - Transformations can buff or debuff stats, but all such affected stats take a penalty die until your character is acclimated.
 - Acclimation takes 2d12 hours, with more time needed for more drastic transformations.
 - Because the Well is more powerful than any human sculptor, changes made with sculpt-boxes are temporary. After sculpting, your character will revert to their base form in around three days.
